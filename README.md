@@ -6,7 +6,7 @@ My pronouns are he/him. I'm a student at the University of British Columbia. I'm
 
 
 
-### My links
+### :mailbox: How to reach me:
 
 ---
 
