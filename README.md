@@ -3,8 +3,9 @@
 ---
 
 My pronouns are he/him. <br/>
-:school: I'm a student at the University of British Columbia. <br/>
-:pencil2: I'm currently working on [tldr.ai](http://tldrai.org/). 
+<br/>
+:school: I'm currently a student at the University of British Columbia. <br/>
+:pencil2: I'm currently working on [tldr.ai](http://tldrai.org/)(founder, front-end developer). 
 
 
 
