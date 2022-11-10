@@ -1,9 +1,9 @@
-### Hi there 👋
+### 👋 Hi there
 
 ---
 
-:boy: My pronouns are he/him. 
-:school: I'm a student at the University of British Columbia. 
+My pronouns are he/him. <br/>
+:school: I'm a student at the University of British Columbia. <br/>
 :pencil2: I'm currently working on [tldr.ai](http://tldrai.org/). 
 
 
