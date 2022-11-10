@@ -8,13 +8,17 @@ Hi! My name is Adrian Lam. My pronouns are he/him. I'm a software engineer curre
 
 <br/>
 
-### :mailbox: How to reach me:
+#### :mailbox: How to reach me:
 
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/adrian-lam-089122216/)
 - [My Portfolio](http://adrianlam15.github.io/)
 - [Email](mailto:adrianlam1511@gmail.com)
+
+#### Other
+
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadrianlam15%2F&count_bg=%236366F1&title_bg=%230F172A&icon=&icon_color=%236366F1&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
