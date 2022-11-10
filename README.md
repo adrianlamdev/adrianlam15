@@ -2,7 +2,9 @@
 
 ---
 
-My pronouns are he/him. I'm a student at the University of British Columbia. I'm currently working on [tldr.ai](http://tldrai.org/). 
+:boy: My pronouns are he/him. 
+:school: I'm a student at the University of British Columbia. 
+:pencil2: I'm currently working on [tldr.ai](http://tldrai.org/). 
 
 
 
