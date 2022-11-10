@@ -16,7 +16,7 @@ Hi! My name is Adrian Lam. My pronouns are he/him. I'm a software engineer curre
 - [My Portfolio](http://adrianlam15.github.io/)
 - [Email](mailto:adrianlam1511@gmail.com)
 
-#### Other
+#### :sparkles: Other
 
 ---
 
