@@ -2,7 +2,7 @@
 
 ---
 
-Hi! My name is Adrian Lam. I'm a software engineer currently in Vancouver, British Columbia 🇨🇦.
+Hi! My name is Adrian Lam. I'm a software engineer currently in Vancouver, British Columbia :canada:.<br/>
 My pronouns are he/him. <br/>
 <br/>
 :school: I'm currently a student at the University of British Columbia. <br/>
