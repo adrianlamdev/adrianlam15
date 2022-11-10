@@ -2,6 +2,8 @@
 
 ---
 
+#### A little bit about me...
+
 My pronouns are he/him. I'm a student at the University of British Columbia. I'm currently working on [tldr.ai](http://tldrai.org/). 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadrianlam15%2F&count_bg=%236366F1&title_bg=%230F172A&icon=&icon_color=%236366F1&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
