@@ -2,9 +2,8 @@
 
 ---
 
-Hi! My name is Adrian Lam. I'm a software engineer currently in Vancouver, British Columbia :canada:. I currently attend the University of British Columbia.<br/>
+Hi! My name is Adrian Lam. My pronouns are he/him. I'm a software engineer currently in Vancouver, British Columbia :canada:. I currently attend the University of British Columbia.<br/>
 <br/>
-My pronouns are he/him. <br/>
 <br/>
 :pencil2: Currently working on **[tldr.ai](http://tldrai.org/)** (founder, front-end developer). 
 
