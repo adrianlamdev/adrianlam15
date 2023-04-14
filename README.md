@@ -11,9 +11,8 @@ Hi! My name is Adrian Lam. My pronouns are he/him. I'm a software engineer curre
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/adrian-lam-089122216/)
-- [My Portfolio](http://adrianlam15.github.io/)
-- [Email](mailto:adrianlam1511@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/adrianlam15/)
+- [Email](mailto:me@adrianlam.dev)
 
 #### :sparkles: Other
 
